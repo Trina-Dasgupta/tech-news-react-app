@@ -59,6 +59,7 @@ span{
   color: #92b4ec;
   font-weight: 400;
   font-size: 1.6rem;
+  text-decoration: none;
 
 }
 .card-button a:last-child{
